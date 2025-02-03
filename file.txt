@@ -1,1 +1,3 @@
 Esse é um arquivo de testes, dentro de um repositório de testes.
+Agora estou "resolvendo um problema "
+Implementando uma "nova função"
