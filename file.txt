@@ -3,3 +3,6 @@ Agora estou "resolvendo um problema "
 Implementando uma "nova função"
 Implementação de uma nova função pt2
 Corrigindo um bug
+Implementando uma "nova função"
+Removendo lixos
+Corrigindo um bug pt2
